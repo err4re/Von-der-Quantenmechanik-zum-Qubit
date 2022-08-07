@@ -27,15 +27,17 @@ Los geht's, öffnet das Terminal und verwendet die folgenden Befehle:
 
 Hier erstellen wir eine Umgebung mit dem Namen `akademie2022` und verwenden in dieser Umgebung Python 3 (niemand will mehr Python 2 und so sind wir uns sicher, dass es nicht peinlich wird). Ihr könnte gerne auch einen anderen Namen als `akademie2022` verwenden, das liegt bei euch. Aber jetzt ist es wahrscheinlich zu spät :joy:
 
+Kurzes Update:
+
+`conda update conda`
+
 Als nächstes aktivieren wir die neue Umgebung, das heißt wir wechseln in diese Umgebung:
 
 `conda activate akademie2022`
 
 Ihr solltet jetzt neben eurem Cursor so etwas wie `(akademie2022)` sehen. Dann kann es jetzt mit den interessanten packages (Erweiterung für Anaconda und/oder Python) los gehen.
 
-Wir beginnen mit [Jupyter Lab](https://jupyter.org), einem Editor für :snake: (und viele andere Programmiersprachen), den ihr heute Vormittag schon gesehen habt. Kurzes Update:
-
-`conda update conda`
+Wir beginnen mit [Jupyter Lab](https://jupyter.org), einem Editor für :snake: (und viele andere Programmiersprachen), den ihr heute Vormittag schon gesehen habt. 
 
 Jetzt Jupyter Lab installieren:
 
