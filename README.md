@@ -83,6 +83,8 @@ Hier eine kleine Aufgabenlist:
 5. erstelle außerdem einen doppelt-logarithmischen Plot
 6. erstelle einen interaktiven Plot für eine Potenzgesetz mit variablem Koeffizienten, das heißt der Koeffizient kann interaktiv verändert werden
 
+Zusätzliche Informationen zu `matplotlib` findet ihr [hier](https://matplotlib.org/stable/tutorials/index.html).
+
 Ansonsten gerne noch `qiskit` testen, im notebook:
 
 ```
