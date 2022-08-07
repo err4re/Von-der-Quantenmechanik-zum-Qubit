@@ -72,4 +72,4 @@ Dann starten wir zum ersten Mal unser frisches Jupyter Lab:
 
 `jupyterlab`
 
-Hier könnt ihr jetzt ein neues Notebook erstellen, zum Beispie unter **File>New>Notebook** .
+Hier könnt ihr jetzt ein neues Notebook erstellen, zum Beispiel unter **File>New>Notebook** .
