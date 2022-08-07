@@ -41,7 +41,7 @@ Jetzt Jupyter Lab installieren:
 
 `conda install jupyterlab`
 
-Stimmt jetzt bitte allen Abfragen zu zusätzlichen packages zu :sweat_smile:. Ok das hat hoffentlich geklappt, ansonsten fragt bei uns nach.
+Stimmt jetzt bitte allen Abfragen zu zusätzlichen packages zu (und im weiteren Verlauf genauso :sweat_smile:). Ok das hat hoffentlich geklappt, ansonsten fragt bei uns nach.
 
 Weiter geht es mit ein paar Python libraries (Bibliotheken mit nützlichen Funktionen, die wir nicht selber schreiben wollen und können :dizzy_face:). Für die Mathe:
 
@@ -60,3 +60,16 @@ Quantencomputer können schöne Graphen vertragen:
 `pip install qiskit[visualization]`
 
 Uuuuuuuund das war's für erste an Installationen, Glückwunsch ihr habt es geschafft! :v:
+
+## 2. Option: VirtualBox
+-----
+
+Einfach [VirtualBox](https://www.virtualbox.org/wiki/Downloads) installieren und bei uns nach der Distribution fragen :wink:
+
+# 2. Erste Notebooks
+
+Dann starten wir zum ersten Mal unser frisches Jupyter Lab:
+
+`jupyterlab`
+
+Hier könnt ihr jetzt ein neues Notebook erstellen, zum Beispie unter **File>New>Notebook** .
