@@ -19,7 +19,7 @@ Um Python zu installieren nutzen wir Anaconda, entweder mit GUI (graphic user in
 
 ### Environment
 
-Nachdem ihr Anaconda und damit :snake: installiert habt, ist es Zeit ein environment (virtuelle Umgebung) für unseren Kurs zu erstellen. Das könnt ihr in der GUI erledigen oder bequem im Terminal, fragt uns gerne nach Hilfe.
+Nachdem ihr Anaconda und damit :snake: installiert habt, ist es Zeit ein environment (virtuelle Umgebung) für unseren Kurs zu erstellen. Das könnt ihr in der GUI erledigen oder bequem im Terminal *(empfohlen)*, fragt uns gerne nach Hilfe.
 
 Los geht's, öffnet das Terminal und verwendet die folgenden Befehle:
 
@@ -31,4 +31,32 @@ Als nächstes aktivieren wir die neue Umgebung, das heißt wir wechseln in diese
 
 `conda activate akademie2022`
 
-Ihr solltet jetzt neben eurem Cursor so etwas wie `(akademie2022)` sehen.
+Ihr solltet jetzt neben eurem Cursor so etwas wie `(akademie2022)` sehen. Dann kann es jetzt mit den interessanten packages (Erweiterung für Anaconda und/oder Python) los gehen.
+
+Wir beginnen mit [Jupyter Lab](https://jupyter.org)), einem Editor für :snake: (und viele andere Programmiersprachen), den ihr heute Vormittag schon gesehen habt. Kurzes Update:
+
+`conda update conda`
+
+Jetzt Jupyter Lab installieren:
+
+`conda install jupyterlab`
+
+Stimmt jetzt bitte allen Abfragen zu zusätzlichen packages zu :sweat_smile:. Ok das hat hoffentlich geklappt, ansonsten fragt bei uns nach.
+
+Weiter geht es mit ein paar Python libraries (Bibliotheken mit nützlichen Funktionen, die wir nicht selber schreiben wollen und können :dizzy_face:). Für die Mathe:
+
+`conda install numpy`
+
+Für die Graphen (habt ihr heute schon in Aktion gesehen):
+
+`conda install matplotlib`
+
+Für die Quatencomputer :raised_hands: :
+
+`pip install qiskit`
+
+Quantencomputer können schöne Graphen vertragen:
+
+`pip install qiskit[visualization]`
+
+Uuuuuuuund das war's für erste an Installationen, Glückwunsch ihr habt es geschafft! :v:
