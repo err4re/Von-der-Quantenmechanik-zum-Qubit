@@ -21,7 +21,7 @@ Um Python zu installieren nutzen wir Anaconda, entweder mit GUI (graphic user in
 
 Nachdem ihr Anaconda und damit :snake: installiert habt, ist es Zeit ein environment (virtuelle Umgebung) für unseren Kurs zu erstellen. Das könnt ihr in der GUI erledigen oder bequem im Terminal *(empfohlen)*, fragt uns gerne nach Hilfe.
 
-Los geht's, öffnet das Terminal und verwendet die folgenden Befehle:
+Los geht's, öffnet das (miniconda oder Anaconda) Terminal und verwendet die folgenden Befehle. Ihr könnt das Terminal einfach in der Suchleiste suchen. Und dann:
 
 `conda create -n akademie2022 python=3`
 
@@ -72,7 +72,7 @@ Einfach [VirtualBox](https://www.virtualbox.org/wiki/Downloads) installieren und
 
 Dann starten wir zum ersten Mal unser frisches Jupyter Lab:
 
-`jupyterlab`
+`jupyter lab`
 
 Hier könnt ihr jetzt ein neues Notebook erstellen, zum Beispiel unter **File>New>Notebook**. Schaut euch als erstes die Bibliothek `matplotlib` an, genaueres dazu [hier](https://matplotlib.org/). Falls ihr euch ein Beispiel anschauen möchtet, findet ihr in diesem repository (Git-Verzeichnis) auch das Notebook zur [UV-Katastrophe](https://github.com/err4re/Von-der-Quantenmechanik-zum-Qubit/blob/main/UV_Katastrophe.ipynb).
 
