@@ -12,3 +12,5 @@ Das heißt also:
 
 ### 1. Option: lokale Installation
 
+Wir werden Python verwenden, weil dies in der Physik die mit Abstand am stärksten verbreitete Programmiersprache ist und weil IBM sie für ihre Quantencomputing Plattform verwendet. Außerdem ist sie einfach schön :star_struck:
+Um Python zu installieren nutzen wir Anaconda, entweder mit GUI (graphic user interface) [hier](https://docs.anaconda.com/anaconda/install/) oder ohne ganz minimalistisch [hier](https://docs.conda.io/en/latest/miniconda.html), die Wahl überlassen wir euch. Auch in der Version mit GUI könnte ihr das Terminal nutzen und habt also keinen Nachteil in dieser Hinsicht :innocent: allein die Installation ist etwas größer.
