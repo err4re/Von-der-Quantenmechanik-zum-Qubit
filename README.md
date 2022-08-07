@@ -11,7 +11,7 @@ Das heißt also:
 2. Option: VirtualBox installieren *(empfohlen wenn 1. fehlschlägt)*
 
 ## 1. Option: lokale Installation
------
+
 ### Python
 
 Wir werden Python verwenden, weil dies in der Physik die mit Abstand am stärksten verbreitete Programmiersprache ist und weil IBM sie für ihre Quantencomputing Plattform verwendet. Außerdem ist sie einfach schön :star_struck:
@@ -62,7 +62,7 @@ Quantencomputer können schöne Graphen vertragen:
 Uuuuuuuund das war's für erste an Installationen, Glückwunsch ihr habt es geschafft! :v:
 
 ## 2. Option: VirtualBox
------
+
 
 Einfach [VirtualBox](https://www.virtualbox.org/wiki/Downloads) installieren und bei uns nach der Distribution fragen :wink:
 
