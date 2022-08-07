@@ -11,8 +11,7 @@ Das heißt also:
 2. Option: VirtualBox installieren *(empfohlen wenn 1. fehlschlägt)*
 
 ## 1. Option: lokale Installation
-------
-
+-----
 ### Python
 
 Wir werden Python verwenden, weil dies in der Physik die mit Abstand am stärksten verbreitete Programmiersprache ist und weil IBM sie für ihre Quantencomputing Plattform verwendet. Außerdem ist sie einfach schön :star_struck:
@@ -26,5 +25,10 @@ Los geht's, öffnet das Terminal und verwendet die folgenden Befehle:
 
 `conda create -n akademie2022 python=3`
 
-Hier erstellen wir eine Umgebung mit dem Namen `akademie2022`
+Hier erstellen wir eine Umgebung mit dem Namen `akademie2022` und verwenden in dieser Umgebung Python 3 (niemand will mehr Python 2 und so sind wir uns sicher, dass es nicht peinlich wird). Ihr könnte gerne auch einen anderen Namen als `akademie2022` verwenden, das liegt bei euch. Aber jetzt ist es wahrscheinlich zu spät :joy:
 
+Als nächstes aktivieren wir die neue Umgebung, das heißt wir wechseln in diese Umgebung:
+
+`conda activate akademie2022`
+
+Ihr solltet jetzt neben eurem Cursor so etwas wie `(akademie2022)` sehen.
