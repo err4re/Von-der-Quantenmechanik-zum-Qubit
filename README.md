@@ -72,4 +72,15 @@ Dann starten wir zum ersten Mal unser frisches Jupyter Lab:
 
 `jupyterlab`
 
-Hier könnt ihr jetzt ein neues Notebook erstellen, zum Beispiel unter **File>New>Notebook** .
+Hier könnt ihr jetzt ein neues Notebook erstellen, zum Beispiel unter **File>New>Notebook**. Schaut euch als erstes die Bibliothek `matplotlib` an, genaueres dazu [hier](https://matplotlib.org/). Falls ihr euch ein Beispiel anschauen möchtet, findet ihr in diesem repository (Git-Verzeichnis) auch das Notebook zur [UV-Katastrophe](https://github.com/err4re/Von-der-Quantenmechanik-zum-Qubit/blob/main/UV_Katastrophe.ipynb).
+
+Hier eine kleine Aufgabenlist:
+
+1. definiere eine lineare Funktion
+2. plotte den Graphen dieser Funktion
+3. gib dem Plot eine Überschrift
+4. definiere ein Potenzgesetz und erstelle einen analogen Plot
+5. erstelle außerdem einen doppelt-logarithmischen Plot
+6. erstelle einen interaktiven Plot für eine Potenzgesetz mit variablem Koeffizienten, das heißt der Koeffizient kann interaktiv verändert werden
+
+Ansonsten gerne noch `qiskit` testen.
