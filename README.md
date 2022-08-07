@@ -33,7 +33,7 @@ Als nächstes aktivieren wir die neue Umgebung, das heißt wir wechseln in diese
 
 Ihr solltet jetzt neben eurem Cursor so etwas wie `(akademie2022)` sehen. Dann kann es jetzt mit den interessanten packages (Erweiterung für Anaconda und/oder Python) los gehen.
 
-Wir beginnen mit [Jupyter Lab](https://jupyter.org)), einem Editor für :snake: (und viele andere Programmiersprachen), den ihr heute Vormittag schon gesehen habt. Kurzes Update:
+Wir beginnen mit [Jupyter Lab](https://jupyter.org), einem Editor für :snake: (und viele andere Programmiersprachen), den ihr heute Vormittag schon gesehen habt. Kurzes Update:
 
 `conda update conda`
 
@@ -83,4 +83,9 @@ Hier eine kleine Aufgabenlist:
 5. erstelle außerdem einen doppelt-logarithmischen Plot
 6. erstelle einen interaktiven Plot für eine Potenzgesetz mit variablem Koeffizienten, das heißt der Koeffizient kann interaktiv verändert werden
 
-Ansonsten gerne noch `qiskit` testen.
+Ansonsten gerne noch `qiskit` testen, im notebook:
+
+```
+import qiskit
+qiskit.__version__
+```
