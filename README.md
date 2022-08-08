@@ -53,7 +53,7 @@ Für die Graphen (habt ihr heute schon in Aktion gesehen):
 
 `conda install matplotlib`
 
-Für die Quatencomputer :raised_hands: :
+Für die Quantencomputer :raised_hands: :
 
 `pip install qiskit`
 
@@ -81,11 +81,16 @@ Hier eine kleine Aufgabenlist:
 1. definiere eine lineare Funktion
 2. plotte den Graphen dieser Funktion
 3. gib dem Plot eine Überschrift
-4. definiere ein Potenzgesetz und erstelle einen analogen Plot
+4. definiere ein Potenzgesetz ($y = a \cdot x^b$) und erstelle einen analogen Plot
 5. erstelle außerdem einen doppelt-logarithmischen Plot
 6. erstelle einen interaktiven Plot für eine Potenzgesetz mit variablem Koeffizienten, das heißt der Koeffizient kann interaktiv verändert werden
 
 Zusätzliche Informationen zu `matplotlib` findet ihr [hier](https://matplotlib.org/stable/tutorials/index.html).
+
+Verständnisfragen zu den obigen Aufgaben:
+
+1. Welche Steigung weist der Graph aus Aufgabe 5) auf? Warum?
+2. Wie verändert sich der Graph aus Aufgabe 6) durch die Skalierung des Koeffizienten? (sehr cool, dass ihr den interaktiven Plot hinbekommen habt :raised_hands:)
 
 Ansonsten gerne noch `qiskit` testen, im notebook:
 
