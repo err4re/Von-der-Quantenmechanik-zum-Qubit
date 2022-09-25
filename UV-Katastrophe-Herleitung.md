@@ -10,7 +10,7 @@ Präziser formuliert stellen wir uns hier die Frage:
 
 Das einfachste Modell für einen Körper, der Wärmestrahlung abgibt, ist ein Hohlkörper aus dem durch ein kleines Loch die elektromagnetische Strahlung entweicht. In der folgenden Abbildung ist ein solcher würfelförmiger Hohlraum mit der Kantenlänge $L$ und dem erwähnten Loch.
 
-<p style="text-align:center;"><img src="Hohlraumstrahlung.png" alt="drawing" width="400"/></p>
+<p align="center"><img src="Hohlraumstrahlung.png" alt="drawing" width="400"/></p>
 
 Die Beschreibung als Hohlraum ist extrem praktisch, weil sich im Inneren des Hohlraums stehende elektromagnetische Wellen ausbilden, welche durch das kleine Loch nicht beeinflusst werden. Warum stehende Wellen? An den Wänden des Hohlraums muss das elektrische Feld verschwinden, wie an einem festen Seilende sind also die Randbedingungen die Ursache.
 
