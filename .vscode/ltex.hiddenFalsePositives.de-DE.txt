@@ -1,0 +1,2 @@
+{"rule":"DE_AGREEMENT","sentence":"^\\QAn den Wänden des Hohlraums muss das elektrische Feld verschwinden, wie an einem festen Seilende.\\E$"}
+{"rule":"DE_AGREEMENT","sentence":"^\\QAn den Wänden des Hohlraums muss das elektrische Feld verschwinden, wie an einem festen Seilende sind also die Randbedingungen die Ursache.\\E$"}
